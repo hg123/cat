@@ -330,6 +330,15 @@
       ]
     },
         {
+      "key": "恐怖鸭资源",
+      "name": "恐怖鸭资源",
+      "type": 0,
+      "api": "https://kongbuya.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+        {
       "key": "M3U8TV",
       "name": "M3U8TV",
       "type": 0,
