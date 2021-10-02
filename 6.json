@@ -63,6 +63,15 @@
   "quickSearch": 0,
   "filterable": 1
 },
+{
+  "key": "csp_N0ys",
+  "name": "90影视",
+  "type": 3,
+  "api": "csp_N0ys",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 0
+},
       {
       "key": "红牛资源",
       "name": "红牛资源",
