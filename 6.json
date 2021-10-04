@@ -1315,20 +1315,20 @@
   "spider": "https://raw.githubusercontents.com/catvod/CatVodTVSpider/master/jar/custom_spider.jar",
   "parses": [
     {
-      "name": "8090",
-      "url": "https://www.8090g.cn/jiexi/?url="
-    },
-    {
-      "name": "BL解析",
-      "url": "https://vip.bljiex.com/?v="
-    },
-    {
       "name": "7解析",
       "url": "https://www.xymav.com/?url="
     },
     {
+      "name": "8090",
+      "url": "https://www.8090g.cn/jiexi/?url="
+    },
+    {
       "name": "15解析",
       "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "BL解析",
+      "url": "https://vip.bljiex.com/?v="
     },
     {
       "name": "无名小站2号",
