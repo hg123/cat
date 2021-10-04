@@ -1333,6 +1333,38 @@
   "spider": "https://raw.githubusercontent.com/catvod/CatVodTVSpider/master/jar/custom_spider.jar",
   "parses": [
     {
+      "name": "无名小站2",
+      "url": "https://www.administratorw.com/video.php?url="
+    },
+    {
+      "name": "5解析",
+      "url": "https://www.8090g.cn/jiexi/?url="
+    },
+    {
+      "name": "7解析",
+      "url": "https://www.xymav.com/?url="
+    },
+    {
+      "name": "15解析",
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "无名小站1号",
+      "url": "https://www.administratorw.com/admin.php?url="
+    },
+    {
+      "name": "Ⅻ号解析",
+      "url": "https://z1.m1907.cn/?a=1&jx="
+    },
+    {
+      "name": "8090G",
+      "url": "https://www.8090g.cn/?url="
+    },
+    {
+      "name": "BL解析",
+      "url": "https://vip.bljiex.com/?v="
+    },
+    {
       "name": "暮光解析",
       "url": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
     },
