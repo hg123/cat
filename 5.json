@@ -1333,12 +1333,12 @@
   "spider": "https://raw.githubusercontent.com/catvod/CatVodTVSpider/master/jar/custom_spider.jar",
   "parses": [
     {
-      "name": "无名小站2",
-      "url": "https://www.administratorw.com/video.php?url="
+      "name": "8090",
+      "url": "https://www.8090g.cn/jiexi/?url="
     },
     {
-      "name": "5解析",
-      "url": "https://www.8090g.cn/jiexi/?url="
+      "name": "无名小站2号",
+      "url": "https://www.administratorw.com/video.php?url="
     },
     {
       "name": "7解析",
