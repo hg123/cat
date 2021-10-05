@@ -1,6 +1,3 @@
-
-"spider": "https://raw.githubusercontents.com/catvod/CatVodTVSpider/master/jar/custom_spider.jar",
-
 {
   "sites": [
 {
@@ -814,5 +811,6 @@
         "论理片"
       ]
     }
-  ]
+  ],
+  "spider": "https://raw.githubusercontents.com/catvod/CatVodTVSpider/master/jar/custom_spider.jar",
   }
