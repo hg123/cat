@@ -1339,7 +1339,7 @@
     "wasu",
     "bilibili"
   ],
-  "spider": "https://raw.githubusercontent.com/catvod/CatVodTVSpider/master/jar/custom_spider.jar",
+  "spider": "https://raw.githubusercontents.com/catvod/CatVodTVSpider/master/jar/custom_spider.jar",
   "parses": [
     {
       "name": "8090",
