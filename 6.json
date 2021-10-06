@@ -1319,6 +1319,7 @@
     "pptv",
     "mgtv",
     "wasu",
+    "leduo",
     "bilibili"
   ],
   "spider": "https://raw.githubusercontents.com/catvod/CatVodTVSpider/master/jar/custom_spider.jar",
