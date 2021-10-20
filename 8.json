@@ -178,7 +178,7 @@
     "quickSearch": 1,
     "filterable": 0,
     "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/jpys.json"
-}
+},
 {
     "key": "csp_xpath_cjt",
     "name": "CJT影视(XPath)",
