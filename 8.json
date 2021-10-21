@@ -2072,19 +2072,7 @@
       "url": "https://m.pptv.com/"
     }
   ],
-"parses": [
-  {
-    "name": "Json并发",
-    "type": 2,
-    "url": "Parallel"
-  },
-  {
-    "name": "Json轮询",
-    "type": 2,
-    "url": "Sequence"
-  }
- 
-],  
+
   "lives": [
     {
       "group": "央视",
@@ -2596,6 +2584,16 @@
   ],
   "spider": "https://raw.githubusercontents.com/catvod/CatVodTVSpider/master/jar/custom_spider.jar",
   "parses": [
+  {
+    "name": "Json并发",
+    "type": 2,
+    "url": "Parallel"
+  },
+  {
+    "name": "Json轮询",
+    "type": 2,
+    "url": "Sequence"
+  },
     {
       "name": "7解析",
       "url": "https://www.xymav.com/?url="
