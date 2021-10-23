@@ -266,7 +266,17 @@
      "quickSearch": 1,
      "filterable": 0,
      "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/dm84.json"
-},   
+},
+{
+    "key": "csp_xpath_egg",
+    "name": "蛋蛋影院(XPath)",
+    "type": 3,
+    "api": "csp_XPathEgg",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/egg.json"
+},    
 {"key":"csp_ysdq_007影视", "name":"007影视(搜)", "type":3, "api":"csp_Ysdq","searchable":1,"quickSearch":0, "ext":"007影视"},
 {"key":"csp_ysdq_555电影", "name":"555电影(搜)", "type":3, "api":"csp_Ysdq","searchable":1,"quickSearch":0, "ext":"555电影"},
 {"key":"csp_ysdq_5060影院", "name":"5060影院(搜)", "type":3, "api":"csp_Ysdq","searchable":1,"quickSearch":0, "ext":"5060影院"},
