@@ -306,7 +306,7 @@
 },
 {
     "key": "csp_yysdali",
-    "name": "YYDS影视",
+    "name": "YYDS影视(XPath)",
     "type": 3,
     "api": "csp_YydsAli",
     "searchable": 1,
