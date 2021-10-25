@@ -99,6 +99,33 @@
     "quickSearch": 0,
     "filterable": 1
   },
+   {
+    "key": "csp_Djx",
+    "name": "瓜皮TV(爬虫)",
+    "type": 3,
+    "api": "csp_Djx",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1
+  },
+  {
+    "key": "csp_Imaple",
+    "name": "枫林网(爬虫)",
+    "type": 3,
+    "api": "csp_Imaple",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1
+  },
+  {
+    "key": "csp_Jumi",
+    "name": "剧迷(爬虫)",
+    "type": 3,
+    "api": "csp_Jumi",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1
+  },   
 {
     "key": "csp_xpath_94sm",
     "name": "94神马(XPath)",
@@ -276,7 +303,17 @@
     "quickSearch": 1,
     "filterable": 0,
     "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/egg.json"
-},    
+},
+{
+    "key": "csp_yysdali",
+    "name": "YYDS影视",
+    "type": 3,
+    "api": "csp_YydsAli",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/yyds.json"
+},     
 {"key":"csp_ysdq_007影视", "name":"007影视(搜)", "type":3, "api":"csp_Ysdq","searchable":1,"quickSearch":0, "ext":"007影视"},
 {"key":"csp_ysdq_555电影", "name":"555电影(搜)", "type":3, "api":"csp_Ysdq","searchable":1,"quickSearch":0, "ext":"555电影"},
 {"key":"csp_ysdq_5060影院", "name":"5060影院(搜)", "type":3, "api":"csp_Ysdq","searchable":1,"quickSearch":0, "ext":"5060影院"},
