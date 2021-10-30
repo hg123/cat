@@ -265,6 +265,26 @@
     "filterable": 0,
     "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/yyds.json"
 },
+{
+     "key": "csp_xpath_555",
+     "name": "555电影(XPath)",
+     "type": 3,
+     "api": "csp_XPath",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 0,
+     "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/555.json"
+},
+{
+     "key": "csp_xpath_sky4k",
+     "name": "天空4K(XPath)",
+     "type": 3,
+     "api": "csp_XPath",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 0,
+     "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/sky4k.json"
+},    
 {"key":"csp_appys_007影视", "name":"007影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"007影视"},
 {"key":"csp_appys_555电影", "name":"555电影(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"555电影"},
 {"key":"csp_appys_5060影院", "name":"5060影院(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"5060影院"},
