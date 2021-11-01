@@ -142,7 +142,7 @@
     "api": "csp_XPath",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 0,
+    "filterable": 1,
     "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/94sm.json"
 },
 {
@@ -162,7 +162,7 @@
     "api": "csp_XPath",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 0,
+    "filterable": 1,
     "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/agefans.json"
 },
 {
@@ -172,7 +172,7 @@
     "api": "csp_XPathMac",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 0,
+    "filterable": 1,
     "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/jpys.json"
 },
 {
@@ -182,7 +182,7 @@
     "api": "csp_XPathMac",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 0,
+    "filterable": 1,
     "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/cjtys.json"
 },
 {
@@ -222,7 +222,7 @@
     "api": "csp_XPath",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 0,
+    "filterable": 1,
     "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/duboku.json"
 },
 {
@@ -232,7 +232,7 @@
      "api": "csp_XPath",
      "searchable": 1,
      "quickSearch": 1,
-     "filterable": 0,
+     "filterable": 1,
      "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/saohuotv2.json"
 },
 {
@@ -242,7 +242,7 @@
      "api": "csp_XPath",
      "searchable": 1,
      "quickSearch": 1,
-     "filterable": 0,
+     "filterable": 1,
      "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/dm84.json"
 },
 {
@@ -252,7 +252,7 @@
     "api": "csp_XPathEgg",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 0,
+    "filterable": 1,
     "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/egg.json"
 },
 {
@@ -262,7 +262,7 @@
     "api": "csp_YydsAli",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 0,
+    "filterable": 1,
     "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/yyds.json"
 },
 {
@@ -272,7 +272,7 @@
      "api": "csp_XPath",
      "searchable": 1,
      "quickSearch": 1,
-     "filterable": 0,
+     "filterable": 1,
      "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/555.json"
 },
 {
@@ -282,8 +282,18 @@
      "api": "csp_XPath",
      "searchable": 1,
      "quickSearch": 1,
-     "filterable": 0,
+     "filterable": 1,
      "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/sky4k.json"
+},
+{
+     "key": "csp_xpath_4kyu",
+     "name": "一只鱼4K(XPath)",
+     "type": 3,
+     "api": "csp_XPath",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/4kyu.json"
 },    
 {"key":"csp_appys_007影视", "name":"007影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"007影视"},
 {"key":"csp_appys_555电影", "name":"555电影(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"555电影"},
