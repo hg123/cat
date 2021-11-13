@@ -343,6 +343,46 @@
      "quickSearch": 1,
      "filterable": 1,
      "ext":"https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/bde4.json"
+},
+{
+     "key":"csp_xpath_gimytv",
+     "name":"剧迷影音",
+     "type":3,
+     "api":"csp_XPath",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "ext":"https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/gimytv.json"
+},
+{
+     "key":"csp_xpath_yinghua",
+     "name":"樱花动漫",
+     "type":3,
+     "api":"csp_XPath",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "ext":"https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/yinghua.json"
+},
+{
+     "key":"csp_xpath_onedianshi",
+     "name":"蓝光影院",
+     "type":3,
+     "api":"csp_XPath",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "ext":"https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/onedianshi.json"
+},
+{
+     "key":"csp_xpath_lezhutv",
+     "name":"乐猪TV",
+     "type":3,
+     "api":"csp_XPath",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "ext":"https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/lezhutv.json"
 },    
 {"key":"csp_appys_007影视", "name":"007影视(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"007影视"},
 {"key":"csp_appys_555电影", "name":"555电影(M)", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"555电影"},
