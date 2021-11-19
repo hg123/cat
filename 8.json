@@ -144,6 +144,15 @@
     "quickSearch": 0,
     "filterable": 1
   },
+  {
+    "key": "csp_YydsAli1",
+    "name": "YYDS阿里(爬虫)",
+    "type": 3,
+    "api": "csp_YydsAli1",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1
+  },   
  {
     "key": "csp_xpath_94sm",
     "name": "94神马(XPath)",
@@ -161,7 +170,7 @@
     "api": "csp_XPath",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 0,
+    "filterable": 1,
     "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/jpys.json"
 },
 {
@@ -201,7 +210,7 @@
     "api": "csp_XPathNfMov",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 0,
+    "filterable": 1,
     "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/nfmovie.json"
 },
 {
@@ -211,7 +220,7 @@
     "api": "csp_XPath",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 0,
+    "filterable": 1,
     "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/jumi.json"
 },
 {
@@ -221,7 +230,7 @@
     "api": "csp_XPath",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 0,
+    "filterable": 1,
     "ext": "https://raw.githubusercontents.com/hg123/CatVodTVSpider/main/xpath/tvci.json"
 },
 {
@@ -336,7 +345,7 @@
 },
 {
      "key":"csp_xpath_bde4",
-     "name":"哔嘀影视",
+     "name":"哔嘀影视(XPath)",
      "type":3,
      "api":"csp_XPath",
      "searchable": 1,
@@ -346,7 +355,7 @@
 },
 {
      "key":"csp_xpath_gimytv",
-     "name":"剧迷影音",
+     "name":"剧迷影音(XPath)",
      "type":3,
      "api":"csp_XPath",
      "searchable": 1,
@@ -356,7 +365,7 @@
 },
 {
      "key":"csp_xpath_yinghua",
-     "name":"樱花动漫",
+     "name":"樱花动漫(XPath)",
      "type":3,
      "api":"csp_XPath",
      "searchable": 1,
@@ -366,7 +375,7 @@
 },
 {
      "key":"csp_xpath_onedianshi",
-     "name":"蓝光影院",
+     "name":"蓝光影院(XPath)",
      "type":3,
      "api":"csp_XPath",
      "searchable": 1,
@@ -376,7 +385,7 @@
 },
 {
      "key":"csp_xpath_lezhutv",
-     "name":"乐猪TV",
+     "name":"乐猪TV(XPath)",
      "type":3,
      "api":"csp_XPath",
      "searchable": 1,
