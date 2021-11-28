@@ -13,7 +13,7 @@ jobs:
   update_external_airflow_fork:
     runs-on: ubuntu-latest
     steps:
-      - uses: namseyeder99/SICK@master
+      - uses: hg123/sync@main
         with:
           github_token: ${{ secrets.HG }} # 令牌
           upstream_repository: catvod/CatVodTVSpider  # 上游仓库
